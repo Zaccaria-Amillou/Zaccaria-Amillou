@@ -17,7 +17,7 @@
 
 </br>
 
-<h2><p align="center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation/blob/main/README.md" title="Projets Data Analyst"> Lien pour mes Projet Data Analyst - formation</a> </p></h2>
+<h2><p align="center"> <a href="https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation/blob/main/README.md" title="Projets Data Analyst"> Projets Data Analyst - Formation</a> </p></h2>
 
 </br>
 </br>
