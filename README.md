@@ -2,12 +2,12 @@
   Bonjour, je suis Zaccaria 👋 
 </h1></p>
 
-<h2><p align='center'>Data Analyst</h2></p>
+<h2><p align='center'>Data Analyst / Ingénieur IA</h2></p>
 
 <p align='center'><img alt="Codage" width="400" src="https://thepressfree.com/wp-content/uploads/2021/02/market-research-port-6.gif"></p>
 
 
-<h4><p align="center">Je suis en cours de formation en tant que Data Analyst, et ici vous trouverez tout mes projets à partir des études des marchés jusqu'à des modèles en Machine Learning.</p></h4></br></br>
+<h4><p align="center">Je suis un Data Analyst en formation pour devenir ingénieur IA, et ici vous trouverez tout mes projets à partir des études des marchés jusqu'à des modèles en Machine Learning.</p></h4></br></br>
 
 
 
