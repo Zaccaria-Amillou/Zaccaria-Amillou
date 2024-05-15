@@ -18,5 +18,5 @@ Feel free to reach out to me via [email](mailto:zaccaria.amillou@gmail.com) or c
 ## Let's Connect
 If you're also passionate about data science, let's connect and collaborate on exciting projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](link-to-your-LinkedIn-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zaccaria-amillou-1a5477231/)
 
