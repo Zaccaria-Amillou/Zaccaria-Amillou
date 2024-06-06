@@ -55,3 +55,7 @@ If you're also passionate about data science, let's connect and collaborate on e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zaccaria-amillou-1a5477231/)
 
+## Projects
+
+### Portfolio Data Analyst
+[My data Analyst portfolio](https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation)
