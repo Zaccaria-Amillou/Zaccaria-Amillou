@@ -26,6 +26,7 @@ Pour plus d'informations sur cette formation, rendez-vous sur le site d'OpenClas
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E2183C?style=flat&logo=ApacheSpark&logoColor=white)
 
 ### CI / CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=GitHub%20Actions&logoColor=white)
