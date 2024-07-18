@@ -13,7 +13,7 @@ Ce dépôt GitHub est une vitrine de mes projets réalisés dans le cadre de ma 
 - Traitement du Langage Naturel (NLP)
 - Vision par Ordinateur
   
-Dans le cadre de ma formation, je suis activement impliqué dans la mise en œuvre de projets MLOps (Machine Learning Operations) de bout en bout, en acquérant une expérience pratique avec des outils tels que Microsoft Azure et ses différentes composantes.
+Engagé dans mon apprentissage, je me suis impliqué dans des projets MLOps, me donnant l'opportunité de mettre en pratique mes connaissances avec des outils tels que Microsoft Azure.
 
 Pour plus d'informations sur cette formation, rendez-vous sur le site d'OpenClassrooms [ici](https://openclassrooms.com/fr/paths/795-ai-engineer).
 
