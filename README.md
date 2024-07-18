@@ -71,8 +71,9 @@ Pour plus d'informations sur cette formation, rendez-vous sur le site d'OpenClas
 - [Segmentation d'Images pour Véhicules Autonomes](https://github.com/Zaccaria-Amillou/ociap8/blob/main/README.md)
 ##### Natural Language Processing (NLP)
 - [Anticiper les Bad Buzz avec l'IA](https://github.com/Zaccaria-Amillou/OCIA7/new/main?filename=README.md)
-### Cloud / Azure
+### Cloud
 - [Application de recommandation de contenu](https://github.com/Zaccaria-Amillou/ociap10/tree/main#readme)
+- [Prototype de Classification d'Images des Fruits](https://github.com/Zaccaria-Amillou/OCIA11/blob/main/README.md)
 ### Portfolio Data Analyst
 [My data Analyst portfolio](https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation)
 
