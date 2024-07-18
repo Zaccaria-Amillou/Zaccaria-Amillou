@@ -64,6 +64,12 @@ Pour plus d'informations sur cette formation, rendez-vous sur le site d'OpenClas
 #### Machine Learning
 - [Développement d'un Modèle de Scoring Crédit ](https://github.com/Zaccaria-Amillou/OC_IA/blob/main/modele_scoring/README.md)
 - [Segmentez des clients d'un site e-commerce](https://github.com/Zaccaria-Amillou/OCIA5/blob/main/README.md)
+#### Deep Learning
+##### Computer Vision
+- [Classifiez automatiquement des biens de consommation](https://github.com/Zaccaria-Amillou/OCIA6/blob/main/README.md)
+  
+##### Natural Language Processing (NLP)
+- [Anticiper les Bad Buzz avec l'IA](https://github.com/Zaccaria-Amillou/OCIA7/new/main?filename=README.md)
 ### Portfolio Data Analyst
 [My data Analyst portfolio](https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation)
 
