@@ -1,14 +1,21 @@
-# Welcome to My GitHub Profile!
 
-## About Me
-I am passionate about everything related to computers, from setup creation, application development, and management, to my most recent interest in data science.
+# Bienvenue sur mon Profil GitHub !
 
-This GitHub repository showcases my projects as I pursue my degree in AI Engineering. Through this program, I'm acquiring a diverse set of hard skills that cover key areas of data science, including data analysis, data visualization, machine learning, natural language processing (NLP), and computer vision.
+## À Propos de Moi
 
-As part of my degree, I am actively engaged in implementing end-to-end machine learning operations (MLOps) projects, gaining hands-on experience with tools like Microsoft Azure and its various components.
+Passionné par tout ce qui touche à l'informatique, de la création de setup, au développement et à l'administration d'applications, en passant par mon intérêt récent pour la data science.
 
-For more information about this degree, please visit the OpenClassrooms website [here](https://openclassrooms.com/fr/paths/795-ai-engineer).
+Ce dépôt GitHub est une vitrine de mes projets réalisés dans le cadre de ma formation d'Ingénieur IA. À travers ce cursus, j'acquiers un ensemble de compétences techniques variées, couvrant les domaines clés de la data science :
 
+- Analyse de données
+- Visualisation de données
+- Machine Learning
+- Traitement du Langage Naturel (NLP)
+- Vision par Ordinateur
+  
+Dans le cadre de ma formation, je suis activement impliqué dans la mise en œuvre de projets MLOps (Machine Learning Operations) de bout en bout, en acquérant une expérience pratique avec des outils tels que Microsoft Azure et ses différentes composantes.
+
+Pour plus d'informations sur cette formation, rendez-vous sur le site d'OpenClassrooms [ici](https://openclassrooms.com/fr/paths/795-ai-engineer).
 
 ## Hard Skills
 
@@ -47,15 +54,19 @@ For more information about this degree, please visit the OpenClassrooms website 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat&logo=Microsoft%20Azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat&logo=Amazon%20AWS&logoColor=white)
 
-## Contact
-Feel free to reach out to me via [email](mailto:zaccaria.amillou@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zaccaria-amillou-1a5477231/).
 
-## Let's Connect
-If you're also passionate about data science, let's connect and collaborate on exciting projects!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zaccaria-amillou-1a5477231/)
 
 ## Projects
-
+### Projets Ingenieur IA 
+#### Analyse des données
+- [Analyse exploratoire des données sur les arbres de la ville de Paris](https://github.com/Zaccaria-Amillou/OC_IA/blob/main/Arbres_Paris/README.md)
+- [Nettoyage et Exploration des Données pour Santé Publique](https://github.com/Zaccaria-Amillou/OC_IA/blob/main/openfoodfacts/readme.md)
+#### Machine Learning
+- [Développement d'un Modèle de Scoring Crédit ](https://github.com/Zaccaria-Amillou/OC_IA/blob/main/modele_scoring/README.md)
+- [Segmentez des clients d'un site e-commerce](https://github.com/Zaccaria-Amillou/OCIA5/blob/main/README.md)
 ### Portfolio Data Analyst
 [My data Analyst portfolio](https://github.com/Zaccaria-Amillou/Data-Analyst-projets-formation)
+
+## Contact
+N'hésitez pas à me contacter via [mail](mailto:zaccaria.amillou@gmail.com) ou me contacter sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zaccaria-amillou-1a5477231/).
+
