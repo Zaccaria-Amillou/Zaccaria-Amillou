@@ -67,7 +67,7 @@ Pour plus d'informations sur cette formation, rendez-vous sur le site d'OpenClas
 #### Deep Learning
 ##### Computer Vision
 - [Classifiez automatiquement des biens de consommation](https://github.com/Zaccaria-Amillou/OCIA6/blob/main/README.md)
-  
+- [Segmentation d'Images pour Véhicules Autonomes](https://github.com/Zaccaria-Amillou/ociap8/blob/main/README.md)
 ##### Natural Language Processing (NLP)
 - [Anticiper les Bad Buzz avec l'IA](https://github.com/Zaccaria-Amillou/OCIA7/new/main?filename=README.md)
 ### Portfolio Data Analyst
