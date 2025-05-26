@@ -15,7 +15,7 @@ Ce dépôt GitHub est une vitrine de mes projets réalisés dans le cadre de ma 
   
 Engagé dans mon apprentissage, je me suis impliqué dans des projets MLOps, me donnant l'opportunité de mettre en pratique mes connaissances avec des outils tels que Microsoft Azure.
 
-Pour plus d'informations sur cette formation, rendez-vous sur le site d'OpenClassrooms [ici](https://openclassrooms.com/fr/paths/795-ai-engineer).
+
 
 ## Hard Skills
 
